@@ -27,5 +27,5 @@ public class OperatorLogika {
 		System.out.println("Bukan true"+c);
 		//
 	}
-
 }
+
